@@ -10,13 +10,13 @@ Time spent: **X** hours spent in total
 The following **required** functionality is completed:
 
 - [ ] User can sign up to create a new account using Parse authentication.
-- [ ] User can log in and log out of his or her account.
+- [X] User can log in and log out of his or her account.
 - [X] The current signed in user is persisted across app restarts.
 - [X] User can take a photo, add a caption, and post it to "Instagram".
 
 The following **optional** features are implemented:
 
-- [ ] User sees app icon in home screen and styled bottom navigation view
+- [X] User sees app icon in home screen and styled bottom navigation view
 - [ ] Style the feed to look like the real Instagram feed.
 - [ ] After the user submits a new post, show an indeterminate progress bar while the post is being uploaded to Parse.
 
