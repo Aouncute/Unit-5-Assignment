@@ -29,7 +29,7 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 
-<img src='http://g.recordit.co/Fe5SVLQFU3.gif' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/3W0Cxhu935.gif' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
